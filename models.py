@@ -12,6 +12,7 @@ class User(Base):
     __tablename__ = 'users'
 
     id = Column(Integer, primary_key=True)
+    age = Column(Integer)
     name = Column(String(50))
     nickname = Column(String(50))
 
