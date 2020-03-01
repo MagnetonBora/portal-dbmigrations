@@ -1,5 +1,5 @@
-# Example of alembic migrations
+## Example of alembic migrations
 
-# Important
+#### Important
 
 Run `export PYTHONPATH=$PYTHONPATH:$(pwd)` inside the root folder so alembic will know where the `models.py` file is.
