@@ -3,7 +3,7 @@ appnope==0.1.0
 backcall==0.1.0
 cffi==1.14.0
 configparser==4.0.2
-cryptography==2.8
+cryptography==3.2
 decorator==4.4.1
 ipython==7.12.0
 ipython-genutils==0.2.0
